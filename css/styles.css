@@ -69,4 +69,9 @@ hr.style-seven:before { /* Not really supposed to work, but does */
 		text-align: center;
 		font-size: 2em;
 	}
+
+	body h4 {
+		text-align: center;
+	}
+
 }
