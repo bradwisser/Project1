@@ -1,16 +1,27 @@
 .jumbotron {
+	font-family: 'Montserrat', sans-serif;
+	font-style: bold;
 	padding: 1em 2em;
 }
 
 .body_container {
 	padding: 0 2em;
 	color: grey;
+	font-family: 'Montserrat', sans-serif;
 }
 
 .cat {
 	float: right;
 	position: relative;
 	width: 30em;
+}
+
+.about_me {
+	margin: -25px 0 0 0;
+}
+
+.projects {
+	margin: -25px 0 0 0;
 }
 
 body {
@@ -25,11 +36,12 @@ hr.style-seven {
     border-width: 1px 0 0 0;
     border-radius: 20px;
 }
+
 hr.style-seven:before { /* Not really supposed to work, but does */
     display: block;
     content: "";
     height: 30px;
-    margin-top: -31px;
+    margin-top: -25px;
     border-style: solid;
     border-color: white;
     border-width: 0 0 1px 0;
