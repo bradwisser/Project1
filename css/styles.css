@@ -1,7 +1,38 @@
 .jumbotron {
 	padding: 1em 2em;
+
 }
 
 .body_container {
-	padding: 1em 2em;
+	padding: 0 2em;
+}
+
+.cat {
+	float: right;
+	position: relative;
+	width: 30em;
+}
+
+
+
+
+/* 	===========================================
+		Media Queries
+		===========================================
+*/
+
+@media screen and (max-width: 767px) {
+	.cat {
+		display: none;
+	}
+
+	.jumbotron h1 {
+		text-align: center;
+		font-size: 5em;
+	}
+
+	.jumbotron h4 {
+		text-align: center;
+		font-size: 2em;
+	}
 }
