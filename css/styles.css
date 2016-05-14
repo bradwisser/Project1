@@ -1,10 +1,10 @@
 .jumbotron {
 	padding: 1em 2em;
-
 }
 
 .body_container {
 	padding: 0 2em;
+	color: grey;
 }
 
 .cat {
@@ -13,6 +13,9 @@
 	width: 30em;
 }
 
+body {
+	background: #000;
+}
 
 
 
