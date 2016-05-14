@@ -1,5 +1,5 @@
 # Epicodus Project 1
-###Bradley Wisser
+######Bradley Wisser
 
 **Goal** This is the project for the first section of the part-time, evening class at Epicodus, which focuses on Git/HTML/CSS practice. We are to build a simple, responsive website and publish it via Github Pages.
 
